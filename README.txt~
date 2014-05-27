@@ -64,4 +64,3 @@ They can be displayed using the standard 'file mode' procedure described above.
 For example:
 	
 	java Voronoi F samples/spiral.txt
-===============
