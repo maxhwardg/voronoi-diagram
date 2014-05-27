@@ -1,4 +1,6 @@
+------
 Voronoi Tessalations and Visualisations
+-----
 
 Implementation of an incremental voronoi diagram algorithm. O(n^2) worst case, O(n) expected case.
 
